@@ -20,7 +20,7 @@
 
 .screen {
     font-family: 'Oswald', sans-serif;
-    font-size: 32px;
+    font-size: 50px;
     width: 90%;
     height:  70px;
     padding: 10px;
@@ -30,12 +30,12 @@
     border: none;
     border-bottom: 2px solid rgba(255, 255, 255, 0.8);;
     background-color: rgb(107, 219, 228);
+    color: white;
 }
 
 .button {
-    
     font-family: 'Oswald', sans-serif;
-    font-weight: 200;
+    font-weight: 400;
     font-size: 32px;
     height: 70px;
     margin-right: 1px;
